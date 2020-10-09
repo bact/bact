@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a PhD student in topic of AI ethics and data governance. Funded by [SFI Centre for Research Training in Digitally-Enhanced Reality (D-REAL)](https://d-real.ie/). Based at [SFI Research Centre for Digital Media Technology](https://www.adaptcentre.ie/), at [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/).
+I'm a PhD student in topic of AI ethics and data governance. Funded by [SFI Centre for Research Training in Digitally-Enhanced Reality (D-REAL)](https://d-real.ie/). Based at [ADAPT - SFI Research Centre for Digital Media Technology](https://www.adaptcentre.ie/), at [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/).
