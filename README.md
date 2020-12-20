@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 I'm a PhD student in topic of AI ethics and data governance. Funded by [SFI Centre for Research Training in Digitally-Enhanced Reality (D-REAL)](https://d-real.ie/). Based at [ADAPT - SFI Research Centre for Digital Media Technology](https://www.adaptcentre.ie/), at [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/).
 
-I also volunteer for [Thai Netizen Network](https://twitter.com/thainetizen), a digital civil rights group based in Bangkok, Thailand.
+I also volunteer for [Thai Netizen Network](https://twitter.com/thainetizen), a digital civil rights group based in Bangkok.
+
+I currently has an interest in software engineering for machine learning and how it can help facilitates the interaction between [technical layer and ethical layer][1]
+
+[1]: U. Gasser and V. A. F. Almeida, ‘A Layered Model for AI Governance’, IEEE Internet Computing, 2017, doi: 10.1109/MIC.2017.4180835.
