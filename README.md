@@ -19,6 +19,6 @@ I'm a PhD student in topic of AI ethics and data governance. Funded by [SFI Cent
 
 I also volunteer for [Thai Netizen Network](https://twitter.com/thainetizen), a digital civil rights group based in Bangkok.
 
-I currently has an interest in software engineering for machine learning and how it can help facilitates the interaction between [technical layer and ethical layer][1]
+I currently has an interest in software engineering for AI systems and how it can help facilitates the interaction between technical layer and ethical layer [(Gasser and Almeida, 2017)][1].
 
-[1]: U. Gasser and V. A. F. Almeida, ‘A Layered Model for AI Governance’, IEEE Internet Computing, 2017, doi: 10.1109/MIC.2017.4180835.
+[1]: https://dash.harvard.edu/handle/1/34390353
