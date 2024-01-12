@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm a PhD student in topic of AI ethics and data governance. Funded by [SFI Centre for Research Training in Digitally-Enhanced Reality (D-REAL)](https://d-real.ie/). Based at [ADAPT - SFI Research Centre for AI Driven Digital Content Technology](https://www.adaptcentre.ie/), at [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/). I also volunteer for [Thai Netizen Network](https://twitter.com/thainetizen), a digital civil rights group based in Bangkok.
 
-I currently have an interest in software engineering and standards for AI systems and how it can help facilitates the interaction between technical layer and ethical/legal layer for an accountable AI.
+I currently have an interest in software engineering and standards for AI systems and how it can help facilitate the interaction between technical layer and ethical/legal layer for an accountable AI. Part of my PhD work is around this [STAV: System Trustworthiness and Accountability Vocabulary](https://github.com/bact/stav).
 
 My ORCID: https://orcid.org/0000-0002-9698-1899 
