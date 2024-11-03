@@ -32,3 +32,4 @@ My ORCID iD: <a
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-9698-1899
     </a>
+My Twitter: <a href="https://twitter.com/bact">bact</a>
