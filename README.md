@@ -19,4 +19,16 @@ I'm a PhD student in topic of AI ethics and data governance, funded by [SFI Cent
 
 I have an interest in software engineering and standards and how they can facilitate interactions between the technical layer and the legal layer for an accountable AI. Part of my PhD work is around [STAV: System Trustworthiness and Accountability Vocabulary](https://github.com/bact/stav). I am actively contributing to the [PyThaiNLP](https://github.com/PyThaiNLP/pythainlp/) natural language processing library and the [AI and Dataset Profiles](https://www.linuxfoundation.org/research/ai-bom) of the [System Package Data Exchange (SPDX)](https://github.com/spdx/spdx-spec) specification.
 
-My ORCID: <https://orcid.org/0000-0002-9698-1899>
+My ORCID iD: <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-9698-1899"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-9698-1899
+    </a>
