@@ -15,9 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a PhD candidate in topic of AI ethics and data governance, funded by [Research Ireland Centre for Research Training in Digitally-Enhanced Reality (d-real)](https://d-real.ie/). I'm based at [ADAPT - Research Ireland Research Centre for AI Driven Digital Content Technology](https://www.adaptcentre.ie/), at the [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/). I also volunteer for the [Thai Netizen Network](https://twitter.com/thainetizen), a digital civil rights group based in Bangkok.
+I'm a PhD candidate in topic of AI ethics and data governance, funded by
+[Research Ireland Centre for Research Training in Digitally-Enhanced Reality (d-real)](https://d-real.ie/).
+I'm based at [ADAPT - Research Ireland Research Centre for AI Driven Digital Content Technology](https://www.adaptcentre.ie/),
+at the [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/).
+I also volunteer for the [Thai Netizen Network](https://twitter.com/thainetizen),
+a digital civil rights group based in Bangkok.
 
-I have an interest in software engineering and standards and how they can facilitate interactions between the technical layer and the legal layer for an accountable AI. Part of my PhD work is around system trustworthiness and accountability vocabulary. I am actively contributing to the [PyThaiNLP](https://github.com/PyThaiNLP/pythainlp/) natural language processing library and the [AI and Dataset Profiles](https://www.linuxfoundation.org/research/ai-bom) of the [System Package Data Exchange (SPDX)](https://github.com/spdx/spdx-spec) specification (see more in the whitepaper on [AI Bill of Materials](https://www.linuxfoundation.org/research/ai-bom) that I co-wrote and published by the Linux Foundation).
+I have an interest in software engineering and standards and how they can facilitate interactions
+between the technical layer and the legal layer for an accountable AI.
+Part of my PhD work is around system trustworthiness and accountability vocabulary.
+I am actively contributing to the [PyThaiNLP](https://github.com/PyThaiNLP/pythainlp/) natural language processing library,
+the [AI and Dataset profiles](https://www.linuxfoundation.org/research/ai-bom) of the
+[System Package Data Exchange (SPDX)](https://github.com/spdx/spdx-spec) specification
+(see more in the whitepaper on [AI Bill of Materials](https://www.linuxfoundation.org/research/ai-bom) that I co-wrote
+and published by the Linux Foundation),
+and [Data Privacy Vocabularies and Controls Commmunity Group (DPVCG)](https://github.com/w3c/dpv/).
 
 My ORCID iD: <a
     id="cy-effective-orcid-url"
