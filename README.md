@@ -31,6 +31,7 @@ the [AI and Dataset profiles](https://www.linuxfoundation.org/research/ai-bom) o
 (see more in the whitepaper on [AI Bill of Materials](https://www.linuxfoundation.org/research/ai-bom) that I co-wrote
 and published by the Linux Foundation),
 and [Data Privacy Vocabularies and Controls Commmunity Group (DPVCG)](https://github.com/w3c/dpv/).
+A [2025 Google Summer of Code](https://github.com/spdx/ntia-conformance-checker/wiki/Adding-SPDX-3.0-Support) contributor.
 
 My ORCID iD: <a
     id="cy-effective-orcid-url"
