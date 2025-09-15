@@ -46,3 +46,7 @@ My ORCID iD: <a
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-9698-1899
     </a>
+
+## Links
+
+- [การกำกับปัญญาประดิษฐ์และมาตรฐานทางเทคนิค: มาตรฐานข้อมูลเพื่อความรับผิดได้ระหว่างวงจรชีวิตของระบบปัญญาประดิษฐ์](https://github.com/bact/bact/blob/main/pub/ai-accountability-standards-ocs-202410.pdf) (ฉบับย่อตีพิมพ์ใน วารสารกฤษฎีกา เล่ม 4 ตอน 4 พ.ศ. 2567)
