@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 I'm a PhD candidate in topic of AI ethics and data governance, funded by
 [Research Ireland Centre for Research Training in Digitally-Enhanced Reality (d-real)](https://d-real.ie/).
-I'm based at [ADAPT - Research Ireland Research Centre for AI Driven Digital Content Technology](https://www.adaptcentre.ie/),
-at the [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/).
+I'm based at the [School of Computer Science and Statistics, Trinity College Dublin](https://www.scss.tcd.ie/).
 I also volunteer for the [Thai Netizen Network](https://twitter.com/thainetizen),
 a digital civil rights group based in Bangkok.
 
